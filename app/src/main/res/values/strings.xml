@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">EasyPlant</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="text_need_account">Don\'t have a account ?  Create New.</string>
+    <string name="text_skip">Skip</string>
+    <string name="text_signup">SignUp</string>
+    <string name="text_username">UserName</string>
+    <string name="hint_email">Email</string>
+    <string name="text_confirm_email">Confirm Email</string>
+    <string name="text_phone">Phone Number</string>
+    <string name="text_password">Password</string>
+    <string name="text_confirm_password">Confirm Password</string>
+    <string name="text_register">Register</string>
+    <string name="text_signup_content">Already have a account ? Login</string>
+    <string name="Feed">Feed</string>
+    <string name="explore">Explore</string>
+    <string name="snap">Snap</string>
+    <string name="search">Search Plants here</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_profile_phone_number">Phone Number</string>
+    <string name="title_profile_name">Profile Name</string>
+    <string name="save">Save</string>
+    <string name="chage_password">Change Password</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="details">Details</string>
+    <string name="please_enter_email">Please enter email address</string>
+    <string name="please_enter_valid_email">Please enter valid email address</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_username">Please Enter Username</string>
+    <string name="please_enter_phone">Please Enter Phone number</string>
+    <string name="please_enter_valid_phone">Please enter valid phone number</string>
+    <string name="password_not_matching">Password not matching</string>
+    <string name="location_allow">Allow Location</string>
+    <string name="permission_denied_message">This permission required by the app to proceed further</string>
+    <string name="location_exit">Deny</string>
+    <string name="map_key" translatable="false">AIzaSyB7JMYQCuR0OqDrg2MqbxhR-tFNqKa2tbM</string>
+    <string name="cancel">Cancel</string>
+    <string name="chnge_password">Change Password</string>
+    <string name="search_plant">Search Plant by names here</string>
+    <string name="clear">Clear</string>
+    <string name="no_internet">No Internet Connected</string>
+    <string name="no_history_found">No serach history found</string>
+    <string name="basic_info">Basic Info</string>
+    <string name="maintanance">maintenance</string>
+    <string name="noDataFound">No Data Found</string>
+    <string name="search_menu">Search</string>
+    <string name="plant_shops">Plant Shops</string>
+    <string name="search_history">Search History</string>
+    <string name="snap_plant">Snap Plant</string>
+
+</resources>

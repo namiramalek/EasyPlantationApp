@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "458545956443",
+    "firebase_url": "https://easyplant-f6d2b.firebaseio.com",
+    "project_id": "easyplant-f6d2b",
+    "storage_bucket": "easyplant-f6d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458545956443:android:ac7e2838a58c079825617e",
+        "android_client_info": {
+          "package_name": "com.hotapps.easyplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458545956443-gdedigkv8q0okdn6euo79bb4q2qi03fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hotapps.easyplant",
+            "certificate_hash": "6bb79eefe1d0bdbe63a9c3757b048548985b0703"
+          }
+        },
+        {
+          "client_id": "458545956443-ueis8fevqho3h02rm67g0e796fhvbl4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZTXcA0FeZOfMTicIsbDU9dRxWdNmG-Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458545956443-ueis8fevqho3h02rm67g0e796fhvbl4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
